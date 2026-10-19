@@ -111,11 +111,6 @@ I build data pipelines, automation tools, search systems, and practical Python a
 - Developed OCR workflows using EasyOCR and Tesseract.
 - Worked with data validation, debugging, Git, Linux, and monitoring scripts.
 
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA) — IGNOU**  
-*June 2021 – June 2024*
-
 ## 📫 Contact
 
 - **Email:** [nitinpowerkashyap121@gmail.com](mailto:nitinpowerkashyap121@gmail.com)
