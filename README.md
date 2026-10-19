@@ -144,7 +144,7 @@ This section is intentionally not embedding third-party statistics images yet be
 
 - **Email:** [nitinpowerkashyap121@gmail.com](mailto:nitinpowerkashyap121@gmail.com)
 - **Location:** Delhi, India
-- **LinkedIn:** Add your actual LinkedIn profile URL here.
+- **LinkedIn:** [nitin-kashyap](www.linkedin.com/in/nitin-kashyap-324366280)
 - **GitHub:** Add your GitHub profile URL here.
 
 ---
