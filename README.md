@@ -55,7 +55,7 @@ I build data pipelines, automation tools, search systems, and practical Python a
 ## 🚀 Featured Projects
 
 <!-- PROJECTS:START -->
-### 🌦️ Weather Forecasting & Clothing Recommendation System
+### 🌦️ Weather Forecasting & Recommendation System
 
 **Python · Django · MongoDB · Scikit-learn · NumPy · Pandas · OpenWeatherMap API**
 
@@ -64,7 +64,7 @@ I build data pipelines, automation tools, search systems, and practical Python a
 - Collects weather data from OpenWeatherMap and prepares features for model predictions.
 - Presents current weather, tomorrow's forecast, and recommendations through a Django interface.
 
-**Repository:** _Add your project repository URL here._
+**Repository:** [weather-recommendation](https://github.com/PyNitinKashyap/Weather-Forecasting-Smart-Recommendation-System)
 
 ### 🧮 Python Scientific Calculator with Tkinter
 
@@ -74,18 +74,8 @@ I build data pipelines, automation tools, search systems, and practical Python a
 - Intended to support standard arithmetic and scientific calculations.
 - Uses a calculator-style layout for interactive input and results.
 
-**Repository:** _Add your project repository URL here._
+**Repository:** [Sci-calculator](https://github.com/PyNitinKashyap/SciCalculator)
 
-### 🔎 Patrol — Data Collection & Search
-
-**Python · FastAPI · MongoDB · Elasticsearch · Selenium · BeautifulSoup · AWS S3**
-
-- Automates data extraction from websites and APIs.
-- Stores structured and unstructured records in MongoDB.
-- Uses Elasticsearch for search and filtering.
-- Supports scheduled data updates and monitoring workflows.
-
-**Repository:** _Add your project repository URL here._
 
 ### ⚡ Electronics Scraper
 
@@ -95,16 +85,6 @@ I build data pipelines, automation tools, search systems, and practical Python a
 - Uses dynamic schema detection and modular ingestion workflows.
 - Provides a Django interface for viewing collected data.
 - Uses logging and error handling to improve data quality.
-
-**Repository:** _Add your project repository URL here._
-
-### ⚖️ Legal Research
-
-**Python · Elasticsearch · MongoDB · Cloud**
-
-- Ingests data from APIs and web sources.
-- Stores and organizes records for search and research workflows.
-- Supports scheduled updates and cloud-based processing.
 
 **Repository:** _Add your project repository URL here._
 
@@ -119,10 +99,6 @@ I build data pipelines, automation tools, search systems, and practical Python a
 
 **Repository:** _Add your project repository URL here._
 <!-- PROJECTS:END -->
-
-## 📈 GitHub Activity
-
-This section is intentionally not embedding third-party statistics images yet because your GitHub username has not been confirmed. Once you know your exact username, you can add a stats card using the instructions in `README_UPDATE_GUIDE.md`. This avoids broken/empty image placeholders.
 
 ## 💼 Experience
 
@@ -145,7 +121,7 @@ This section is intentionally not embedding third-party statistics images yet be
 - **Email:** [nitinpowerkashyap121@gmail.com](mailto:nitinpowerkashyap121@gmail.com)
 - **Location:** Delhi, India
 - **LinkedIn:** [nitin-kashyap](www.linkedin.com/in/nitin-kashyap-324366280)
-- **GitHub:** Add your GitHub profile URL here.
+- **GitHub:** [PyNitinKashyap](https://github.com/PyNitinKashyap/PyNitinKashyap)
 
 ---
 
