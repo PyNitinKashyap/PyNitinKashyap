@@ -87,7 +87,7 @@ I build data pipelines, automation tools, search systems, and practical Python a
 
 **Repository:** _Add your project repository URL here._
 
-### ⚡ Electric Scraper
+### ⚡ Electronics Scraper
 
 **Python · MongoDB · Django · AWS**
 
