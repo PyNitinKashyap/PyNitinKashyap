@@ -86,7 +86,7 @@ I build data pipelines, automation tools, search systems, and practical Python a
 - Provides a Django interface for viewing collected data.
 - Uses logging and error handling to improve data quality.
 
-**Repository:** _Add your project repository URL here._
+**Repository:** <!--_Add your project repository URL here._-->
 
 ### 🤖 AI Chatbot
 
@@ -97,7 +97,7 @@ I build data pipelines, automation tools, search systems, and practical Python a
 - Combines MongoDB and Elasticsearch for document retrieval and search.
 - Includes web-scraping/OCR data ingestion and conversation-history handling.
 
-**Repository:** _Add your project repository URL here._
+**Repository:** <!--_Add your project repository URL here._-->
 <!-- PROJECTS:END -->
 
 ## 💼 Experience
